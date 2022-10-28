@@ -238,7 +238,7 @@ namespace MTP_petshop
             {
                 //introduceti adresa dvs de mail si parola acesteia
                 UserName = "mira.theduet@gmail.com",
-                Password = "midelamimiradelaralu"
+                Password = ""
             };
 
             smtpClient.EnableSsl = true;
